@@ -19,7 +19,7 @@ cd VisionHandPose-iOS-swift
 open VisionHandPose.xcodeproj
 4. Build and run the project using the Xcode simulator or a connected iOS device.
 
-## Usage
+### Usage
 
 1. Interactive Entertainment: Users can enjoy a dynamic and entertaining way to engage with images by expressing their preferences through live camera gestures. This creates an immersive experience, making image browsing more interactive and enjoyable.
 
